@@ -1,0 +1,4 @@
+
+There is ignorable differences between the result in my result and my classmates result. They usually appears at the last few digits of the decimal point.
+
+If I can perform different analysis on the dataset, I will examine which bigram has the highest average occurences per book for all years regardless of the year and the duration. Will also examine around which decade appears the bigram with the highest rate(50s, 60s, 80s?). 
